@@ -1,0 +1,47 @@
+body {
+  margin-left: 250px;
+  
+  background-color:#e0e5e5;
+  
+}
+
+
+ul.navbar {
+  position: absolute;
+  top: 30px;
+  left: 15px;
+  width: 120px;
+}
+
+h1{
+color: #17252a;
+}
+
+ul.navbar li {
+  margin: 5px 0;
+  padding: 5px;
+  border-right: 1px solid #17252a;
+  border-top: 1px solid #17252a;
+  border-left: 10px solid #17252a;
+  border-bottom: 1px solid #17252a;
+}
+
+ul.navbar a {
+  text-decoration: none
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+ul.image{
+	argin: 5px 0;
+  padding: 5px;
+}
+
+
+
